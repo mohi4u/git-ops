@@ -1,0 +1,13 @@
+cd ~/.ssh/dd
+
+   76  vim index.html
+   77  git status
+   78  git add .
+   79  git status
+   80  git commit -am" additional another line 01"
+   81  git push
+   82  git log
+   83  git status
+   84  vim history.txt
+   85  history
+
