@@ -1,0 +1,64 @@
+## Todays Command ###
+cat /etc/os-release 
+pwd 
+ll
+date 
+mkdir june-18-batch
+ll
+cd june-18-batch/
+touch a.txt
+ll
+mkdire demo 
+mkdir demo 
+cp a.txt demo/
+ll
+tree
+sudo apt install tree -y 
+sudo su
+tree
+mv a.txt demo/
+ll
+rm demo/a.txt 
+ll
+ll demo/
+touch a.txt 
+ll
+chown apache: a.txt 
+ll
+cat /etc/passwd
+sudo apt install apache2
+git
+ll
+chown apache: a.txt 
+ll
+cat /etc/passwd
+sudo apt install apache2
+git 
+chown apache: a.txt 
+chown apache:apache a.txt 
+chown apache2 a.txt 
+chown httpd a.txt 
+sudo adduser varun 
+chown varun:varun a.txt 
+sudo chown varun:varun a.txt 
+ll
+sudo chown -R varun:varun demo/
+ll
+cat /etc/passwd
+git --version 
+sudo apt remove git 
+git --version 
+sudo apt install git 
+git --version 
+ll
+vim a.txt 
+cat a.txt 
+echo "this is line 2"
+echo "this is line 2" >> a.txt 
+cat a.txt 
+cat /etc/passwd
+more /etc/passwd
+less /etc/passwd
+history 
+history | cut -c 8-
+history | cut -c 8- > linux-commend.txt
