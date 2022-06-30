@@ -1,0 +1,2 @@
+abc_mo
+.txt file
