@@ -62,3 +62,4 @@ less /etc/passwd
 history 
 history | cut -c 8-
 history | cut -c 8- > linux-commend.txt
+good work by mo
